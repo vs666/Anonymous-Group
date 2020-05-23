@@ -36,11 +36,3 @@ To start the server :
 ```bash
 npm start
 ```
-
-## Contribution
-
-To make a contribution, add your name to the CONTRIBUTORS.md file.
-
-To make a contribution, fork the repository and clone it. Then add the change to another branch and make a pull request.
-
-
